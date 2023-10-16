@@ -35,7 +35,8 @@ function App() {
     setProvider(provider);
 
     const network = await provider.getNetwork();
-    
+    console.log(network)
+
     // connect to smart contracts
     const dappazon = new ethers.Contract(
       config[network.chainId]['dappazon']['address'], 
