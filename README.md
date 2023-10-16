@@ -1,7 +1,7 @@
 # Web3 Amazon Dapp
 Clone Coding in reference to Web3 Dappazon Coding by Justin </br> (https://www.youtube.com/watch?v=X1ahXNYkpL8&t=1s) </br>
 * Smart Contract deployed at local hardhat </br>
-* Backend : Solidity + Hardhat </br>
+* Backend : NodeJS </br>
 * Frontend : ReactJS </br>
 <img width="1410" alt="image" src="https://github.com/Kyusub-Hwang/Clone_CryptoPaypal/assets/79511478/0f0e8536-8b0c-4f33-a5e5-540252b0726f">
 <img width="1401" alt="image" src="https://github.com/Kyusub-Hwang/Clone_CryptoPaypal/assets/79511478/8081960c-e0c6-48e2-8ef4-7909e498ba58">
